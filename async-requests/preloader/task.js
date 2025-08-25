@@ -31,3 +31,4 @@ function createItems(nameValute, value) {
   item.appendChild(itemValue);
   item.appendChild(itemCurrency);
   return item
+}
